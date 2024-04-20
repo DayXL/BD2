@@ -6,3 +6,7 @@ Aluna: Dayanne Xavier Lucena
 Matrícula: 20220043049
 
 Email: dayanne.xavier.119@ufrn.edu.br
+
+## Tarefa - ODBC e ORM
+
+- [Tarefas](https://github.com/DayXL/BD2/blob/main/tarefas/orm/tarefa-orm.md)
