@@ -9,4 +9,6 @@ Email: dayanne.xavier.119@ufrn.edu.br
 
 ## Tarefa - ODBC e ORM
 
-- [Tarefas](https://github.com/DayXL/BD2/blob/main/tarefas/orm/tarefa-orm.md)
+Para testar os códigos dessa [atividade](https://github.com/DayXL/BD2/blob/main/tarefas/orm/tarefa-orm.md), primeiro você precisa rodar esses [scripts](https://github.com/tacianosilva/bsi-tasks/tree/master/database/scripts/AtividadesBD/postgres).
+
+
